@@ -1,7 +1,7 @@
 # The-Other-Half — Clothing Company Website
 
 A modern, responsive e-commerce website built for **The Other Half**, a clothing brand based out of Las Vegas, NV.  
-Built with [React.js] and [.NET Core] for full-stack functionality.
+Built with React.js and .NET for full-stack functionality.
 
 ---
 
